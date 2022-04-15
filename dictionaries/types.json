@@ -1,0 +1,19 @@
+{
+    "Normal": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\c&HFFFFFF&\\3c&H443FC5&}",
+    "Fire": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H005AAD&\\c&H6DC3FF&}",
+    "Ice": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H81A63C&\\c&HEDFFC9&}",
+    "Dark": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H420D21&\\c&H99194B&}",
+    "Fighting": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\c&H5E5FE0&\\3c&H18199F&}",
+    "Ground": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H0E202C&\\c&H2D577A&}",
+    "Water": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&HB34D41&\\c&HE67C80&}",
+    "Eletric": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H00A3B7&\\c&H00DEFF&}",
+    "Steel": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H5D5D5D&\\c&HC0C0C0&}",
+    "Poison": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H7B0C6A&\\c&HEC62D8&}",
+    "Rock": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H31313F&\\c&H637581&}",
+    "Dragon": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H681811&\\c&HAA6661&}",
+    "Psychic": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&HCD56F5&\\c&HFAC9FF&}",
+    "Grass": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\c&H6BE063&\\3c&H166A17&}",
+    "Bug": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H49601E&\\c&H81A63C&}",
+    "Flying": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&HA6943C&\\c&HFFF1CA&}",
+    "Ghost": "{\\fnKanit Attack\\bord2.6\\fs35\\fscx100\\3c&H580C4B&\\c&H8E6287&}"
+}
